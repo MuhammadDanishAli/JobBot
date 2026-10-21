@@ -38,3 +38,6 @@ Do not automatically email/DM clients from background watches. Notifications onl
 
 ## Latest universal engineering / media inputs
 The versioned universal engineering standard is `docs/AI_ENGINEERING_PLAYBOOK_v1.4.md`, with `docs/VIDEO_23_EVIDENCE_20261021.md` as sampled-frame provenance. Apply `docs/MD_VOICEOPS_CLIENT_DISCOVERY_23_MEDIA.md` to client targeting. The 23 items were not fully audio-transcribed, so never imply complete video narration was examined. Authorized staging-only pentest is a separate explicit permission gate; never scan client domains in prospecting.
+
+## Current universal playbook
+The newest universal engineering guide is docs/AI_ENGINEERING_PLAYBOOK_v1.5.md. Keep multiproject security findings PRIVATE in separate reports. No unsupervised dynamic testing of production or real-carrier systems.
