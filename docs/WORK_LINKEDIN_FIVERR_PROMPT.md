@@ -47,3 +47,6 @@ Return after first session:
 Do not buy ads, subscriptions, Connects, leads, domains or call minutes, take jobs beyond solo capacity, alter telecom production, or commit to projects without owner confirmation. Do not claim these docs are connected to a Dot until actually provided to the Dot.
 
 If repository is inaccessible, request user to grant GitHub repo access through Work; DO NOT substitute an unrelated repository or rebuild from general memory.
+
+## New 23-media discovery input (Oct 21)
+Read `docs/MD_VOICEOPS_CLIENT_DISCOVERY_23_MEDIA.md` for client-specific outcome hypotheses, `docs/VIDEO_23_EVIDENCE_20261021.md` for what was actually visible, and `docs/AI_ENGINEERING_PLAYBOOK_v1.4.md` for applicable engineering/security practices. Never claim videos are fully transcribed. Use source-grounded business hypotheses and one low-friction question, not a fear-based security pitch. Testing/attacking any application requires client ownership and explicit authorization; do not run probes during sales research.

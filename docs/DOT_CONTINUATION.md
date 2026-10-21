@@ -20,3 +20,6 @@ Operate as a proactive client-acquisition research assistant for Muhammad Danish
 
 ## Owner-facing short context prompt
 "Continue MD VoiceOps client acquisition using https://github.com/MuhammadDanishAli/JobBot at branch docs/md-voiceops-linkedin-fiverr-handoff-20261021. Read AGENTS.md and every file in docs first. Prioritize one paid South Asian VICIdial/Asterisk/SIP/VoIP/AI voice project. Research the buyer's business and measurable profit/efficiency opportunity before offering services, use my LinkedIn danishatwork and Fiverr danish123p as appropriate, and preserve platform rules and no-send/no-spend guardrails. Report qualified next actions with evidence; don't spam or invent success."
+
+## Additional verified media inputs
+Read `docs/AI_ENGINEERING_PLAYBOOK_v1.4.md` and `docs/MD_VOICEOPS_CLIENT_DISCOVERY_23_MEDIA.md` for newly studied 23-media context. Sources had visual sampling only; do not invent unverified narration or tools. Do not perform pentests or website scans against prospects; only public research and permission-gated customer work. Business impact is hypothetical until measured.

@@ -62,3 +62,8 @@ Your proof is genuine completed assignments and responsible troubleshooting, not
 For each lead: verified company/domain + source date + role/recipient + business hypothesis + evidence URL + contact attempt time + channel + actual result + next appropriate action.
 Statuses: RESEARCHED, VERIFIED, DRAFT, SENT, BOUNCED, HUMAN_REPLIED, DISCOVERY_BOOKED, QUOTED, FUNDED, DELIVERING, COMPLETED.
 Do not call SENT "delivered", HUMAN_REPLIED "client", or completed revenue until payment status is known.
+
+## Evidence-driven security / lead flow opportunity (23 media review)
+For new opportunities, consult `docs/MD_VOICEOPS_CLIENT_DISCOVERY_23_MEDIA.md`. It adds seven measurable business workflows (order verification, new-seat BPO growth, webhook deduplication, PBX transfer repair, analytics correctness, form-to-callback and authorized security readiness) adapted from 23 visual media items.
+
+**Do not run tests on prospect systems without written scope.** Avoid claiming a prospect has exposed API keys or security holes because a social video dramatized those risks. First pitch an authorized, measurable small assessment, not a scare tactic. Human benefit first, one tailored question, proposal second. Existing company outreach status must be verified privately against live Gmail before any send.

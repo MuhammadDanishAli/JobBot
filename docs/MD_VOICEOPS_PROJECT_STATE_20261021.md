@@ -72,3 +72,9 @@ Evaluate qualified client conversations/appointments/paid milestones as primary 
 6. Hand the same repo + Work instructions to Dot manually; creating repo docs does not install/alter Dot state.
 
 **Git expectation:** This checkpoint is documentation only. No changes to calling servers, carriers, employer infrastructure or client systems.
+
+## October 21 later update: 23 additional Documents media
+Reviewed 16 videos by visually sampled frames and 7 images in the Windows Documents root; see `VIDEO_23_EVIDENCE_20261021.md`. Added universal playbook v1.4 and the specific lead discovery map. Exact app-attack/pentesting tool name was not visible, so independently documented Strix/Shannon as optional staged tests, never ran them. These are strategy/docs changes only, not a new customer reply, engagement, Git deployment, production scan or new Fiverr/LinkedIn post.
+
+## October 21 — follow-on client outreach after 23-media review
+Two individually tailored prospecting emails were confirmed SENT through the authorized Gmail connector: Blucheez, Bangladesh (business-value hypothesis: order-confirmation callback time and unresolved verification), and PaddlePoint BPO, Thane, India (business-value hypothesis: actual connected conversations, completed follow-ups and productive agent time). Both included the independently sourced public Fiverr profile as evidence. Both were sent October 21, 2026 from the user's established account. Neither delivery nor a human reply nor a paid contract was confirmed at the moment of writing. Do not repeat the emails; check Gmail for new human replies or delivery errors before any follow-up. These are business hypotheses, NOT verified defects at either company.
