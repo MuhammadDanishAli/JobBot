@@ -41,3 +41,6 @@ The versioned universal engineering standard is `docs/AI_ENGINEERING_PLAYBOOK_v1
 
 ## Current universal playbook
 The newest universal engineering guide is docs/AI_ENGINEERING_PLAYBOOK_v1.5.md. Keep multiproject security findings PRIVATE in separate reports. No unsupervised dynamic testing of production or real-carrier systems.
+
+## Work/Codex allowance conservation
+Apply docs/AI_ENGINEERING_PLAYBOOK_v1.6.md Section 22 and docs/USAGE_BUDGET_POLICY.md: one lead agent and zero subagents by default, maximum two when justified; tracker-first narrow reads and targeted testing; no repeat full audits; checkpoint when usage is low. Never skip release/security/CI gates or activate resets/paid resources without explicit approval. Keep account-specific billing and usage PRIVATE.

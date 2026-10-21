@@ -50,3 +50,6 @@ If repository is inaccessible, request user to grant GitHub repo access through 
 
 ## New 23-media discovery input (Oct 21)
 Read `docs/MD_VOICEOPS_CLIENT_DISCOVERY_23_MEDIA.md` for client-specific outcome hypotheses, `docs/VIDEO_23_EVIDENCE_20261021.md` for what was actually visible, and `docs/AI_ENGINEERING_PLAYBOOK_v1.4.md` for applicable engineering/security practices. Never claim videos are fully transcribed. Use source-grounded business hypotheses and one low-friction question, not a fear-based security pitch. Testing/attacking any application requires client ownership and explicit authorization; do not run probes during sales research.
+
+## Efficient continuation
+Read docs/USAGE_BUDGET_POLICY.md and playbook v1.6 Section 22 before any lengthy operation. Resume from the latest checkpoint; no routine subagents or duplicate research, maximum two independent subagents where justified. Keep mandatory safety and verification gates and avoid unapproved billing/reset usage.

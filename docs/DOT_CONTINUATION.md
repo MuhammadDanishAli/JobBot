@@ -23,3 +23,6 @@ Operate as a proactive client-acquisition research assistant for Muhammad Danish
 
 ## Additional verified media inputs
 Read `docs/AI_ENGINEERING_PLAYBOOK_v1.4.md` and `docs/MD_VOICEOPS_CLIENT_DISCOVERY_23_MEDIA.md` for newly studied 23-media context. Sources had visual sampling only; do not invent unverified narration or tools. Do not perform pentests or website scans against prospects; only public research and permission-gated customer work. Business impact is hypothetical until measured.
+
+## Efficient continuation
+Read docs/USAGE_BUDGET_POLICY.md and playbook v1.6 Section 22 before any lengthy operation. Resume from the latest checkpoint; no routine subagents or duplicate research, maximum two independent subagents where justified. Keep mandatory safety and verification gates and avoid unapproved billing/reset usage.
