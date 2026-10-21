@@ -28,6 +28,9 @@ Read in this order:
 2. `docs/MD_VOICEOPS_OUTREACH_PLAYBOOK.md` (strategy, targeting and examples).
 3. `docs/WORK_LINKEDIN_FIVERR_PROMPT.md` (full browser Work handoff).
 4. `docs/DOT_CONTINUATION.md` (Dot/Rangeela instructions).
+5. `docs/AI_ENGINEERING_PLAYBOOK_v1.3.md` (the universal engineering reference, for relevant technical/client work).
+6. `docs/VIDEO_SOURCE_EVIDENCE_20261021.md` (what the 14 source clips visibly support and what remains unverified).
+7. `docs/MD_VOICEOPS_CLIENT_DISCOVERY_FROM_VIDEO.md` (careful business-value adaptation for prospecting).
 
 Reconcile fresh account data before action; dated checkpoint is not live status.
 Maintain a short journal for completed real work and blockers. State SENT versus DELIVERED versus HUMAN REPLY versus SIGNED/PAID honestly.
